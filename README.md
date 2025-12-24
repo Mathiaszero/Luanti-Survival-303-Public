@@ -7,4 +7,5 @@ https://discord.gg/K3T75UcCcj
 # Gallery
 <img width="1918" height="983" alt="image" src="https://github.com/user-attachments/assets/b1305835-82a4-4567-9544-c804cab1810d" />
 
-
+# Source
+This project is closed source due to the growing amount of custom modifications.
