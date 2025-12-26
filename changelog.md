@@ -7,3 +7,5 @@ changelog
 12/24/25: Installed simple_armor api and simple_skins mods.
 
 12/25/25: Added drinking water with bare hands, removed wooden bucket.
+
+12/26/25: Removed hemp seed, leaf, and diamond tools.
