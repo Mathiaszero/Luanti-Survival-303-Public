@@ -8,4 +8,4 @@ changelog
 
 12/25/25: Added drinking water with bare hands, removed wooden bucket.
 
-12/26/25: Removed hemp seed, leaf, and diamond tools.
+12/26/25: Removed hemp seed, leaf, and diamond tools; redesigned stat bar so hud elements are under the player key.
